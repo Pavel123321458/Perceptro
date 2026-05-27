@@ -75,7 +75,8 @@ Momentum	0.90	0.9470
 Momentum	0.99	0.9470
 Momentum с β=0.9 даёт наиболее быстрое и стабильное падение loss на первых эпохах.
 
-https://images/momentum.png
+[https://images/momentum.png
+](https://github.com/Pavel123321458/Perceptro/blob/72db5a6c6abbfba8658319f87a2a5653a0d61a4f/SGD_Momentum.png)
 
 Задание 5. Кросс-валидация
 5-кратная кросс-валидация, средняя точность (std):
