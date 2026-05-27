@@ -64,8 +64,7 @@ F1-score	0.9481
 ROC-AUC	0.9658
 Ошибочно классифицировано 8 из 151 точек — все находятся вблизи разделяющей границы.
 
-[https://images/roc_errors.png
-](https://github.com/Pavel123321458/Perceptro/blob/663d51a19a3690dad54ca50e31a897198601ee44/Roc_Errors.png)
+https://github.com/Pavel123321458/Perceptro/blob/5613140fd2590e05d7b578bc072c3c2b9940c09d/Roc_Errors.png
 
 Задание 4. Градиентный спуск с моментом
 Метод	β	Test accuracy
