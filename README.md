@@ -89,7 +89,8 @@ lr \ batch	1	16	32	64
 
 Финальная модель: test accuracy = 0.9470
 
-https://images/cross_validation.png
+[https://images/cross_validation.png
+](https://github.com/Pavel123321458/Perceptro/blob/5d15d49950e19dce1781a22c42871fe674948fac/CrossValidation.png)
 
 Выводы
 Однослойный перцептрон успешно классифицирует линейно разделимые данные (accuracy ~95%)
