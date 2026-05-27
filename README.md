@@ -4,7 +4,7 @@ Train accuracy	0.9462
 Test accuracy	0.9470
 Модель успешно обучилась разделять два класса. Потери на train и validation плавно убывают, переобучения нет.
 
-https://images/loss_boundary.png
+Binary_Boundary.png
 
 Эксперименты
 Влияние скорости обучения (learning rate)
