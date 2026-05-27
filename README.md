@@ -4,7 +4,8 @@ Train accuracy	0.9462
 Test accuracy	0.9470
 Модель успешно обучилась разделять два класса. Потери на train и validation плавно убывают, переобучения нет.
 
-Binary_Boundary.png
+[Binary_Boundary.png
+](https://github.com/Pavel123321458/Perceptro/blob/076484afb7570abfeff6794ef1ef3427fda45558/Binary_Boundary.png)
 
 Эксперименты
 Влияние скорости обучения (learning rate)
